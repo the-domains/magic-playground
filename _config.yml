@@ -1,0 +1,14 @@
+layout_spectrum: 0.5016195320058614
+typography_spectrum: 0.1916060852818191
+color:
+  brandStrength: 0.7691967037972063
+  lightness: 0.6485959745477885
+  saturation: 0.29089718079194427
+  rhythmicContrast: 0.9892356088384986
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: Magic Playground
